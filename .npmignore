@@ -1,0 +1,7 @@
+# .npmignore
+src/
+test/
+docs/
+.eslintrc
+*.test.js
+README_draft.md
